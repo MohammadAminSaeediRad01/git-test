@@ -1,13 +1,17 @@
 // Test Codes
 
 const likePost = () => {
-  return true 
-}
+  return true;
+};
 
 const disslikePost = () => {
-  return false 
-}
+  return false;
+};
 
 const getMe = (user) => {
-  return user.name
-}
+  return user.name;
+};
+
+const setComment = (comment) => {
+  return comment.body;
+};
