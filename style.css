@@ -2,7 +2,6 @@ body {
   display: flex;
 }
 
-h1 {
-  color: black;
-  font-size: 12px;
+h2 {
+  color: red;
 }
