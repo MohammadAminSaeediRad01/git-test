@@ -70,6 +70,17 @@ Unordered:
 
 ![Github](https://octodex.github.com/images/dojocat.jpg)
 
+---
+
+![Npm Downloads](https://img.shields.io/npm/dw/express)
+![Npm Downloads](https://img.shields.io/npm/dw/cors)
+
+---
+
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
 <!-- ## Sabzlearn Git Course Repo
 
 ### Sabzlearn Git Course Repo
